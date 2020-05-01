@@ -1,8 +1,8 @@
 {
   "name": "Snibox",
   "description": "Self-hosted snippet manager.",
-  "website": "https://github.com/snibox/snibox",
-  "repository": "https://github.com/snibox/snibox",
+  "website": "https://github.com/Adam157/snibox",
+  "repository": "https://github.com/Adam157/snibox",
   "logo": "https://avatars3.githubusercontent.com/u/35972977",
   "success_url": "/register",
   "scripts": {
